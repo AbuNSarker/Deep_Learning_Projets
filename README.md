@@ -16,7 +16,7 @@
     <td>1.</td>
     <td>Handwritten Digits Recognition using NN </td>
     <td>Completed</td>
-    <td><a href="https://rb.gy/r7zhvo/">[link]</a></td>
+    <td><a href="https://rb.gy/gvpztw">[link]</a></td>
   </tr>
   <tr>
     <td>2.</td>
